@@ -52,3 +52,5 @@ To create an idea:
 - This view, gives the user the ability to write a daily journal entry, as well as a photo of the day. 
 
 ## Author info
+- Email: macostadelvecchio@gmail.com
+- Linkedin: https://www.linkedin.com/in/miguel-acosta7
