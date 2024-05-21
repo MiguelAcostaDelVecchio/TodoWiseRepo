@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [Description](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/main/README.md#Description)
-- [Screen Recordings](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/main/README.md#Screen-Recordings)
+- [Screen Recordings](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/main/README.md#Screen-Recordings)(https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/README.md#screen-recordings)
 - [How to use](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/main/README.md#How-To-Use)
 - [Author info](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/main/README.md#Author-Info)
 
