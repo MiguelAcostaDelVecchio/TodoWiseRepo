@@ -1,5 +1,5 @@
 # ToDoWise: Task & Idea Planner
-<img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todoWiseIcon.png" height="300" width="300">
+<img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todoWiseIcon.png" height="300" width="300">
 
 ## Table of contents
 - [Description](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/README.md#Description)
