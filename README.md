@@ -12,14 +12,14 @@ The purpose of this app is to help users organize their thoughs and support acti
 
 ## Pictures
 <p float="left">
-      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg1.png" height="500" width="250">
-      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg2.png" height="500" width="250">
-      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg4.png" height="500" width="250">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todowiseImg1.png" height="500" width="250">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todowiseImg2.png" height="500" width="250">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todowiseImg4.png" height="500" width="250">
 </p>
 <p>
-      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg5.png" height="500" width="250">
-      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg6.png" height="500" width="250">
-      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg7.png" height="500" width="250">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todowiseImg5.png" height="500" width="250">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todowiseImg6.png" height="500" width="250">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/Images/todowiseImg7.png" height="500" width="250">
 </p>
 
 ## How to use
