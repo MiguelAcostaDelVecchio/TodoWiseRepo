@@ -1,4 +1,5 @@
 # ToDoWise: Task & Idea Planner
+<img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todoWiseIcon.png" height="300" width="300">
 
 ## Table of contents
 - [Description](https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/main/README.md#Description)
@@ -9,7 +10,8 @@
 ## Description
 The purpose of this app is to help users organize their thoughs and support action. Thoughts, can include anything from ideas, stories, quotes, and reflections. This app has been designed in such a way to promote the user to store and easily organize their thoguhts to quickly use their past information as an advantage. 
 
-## Screen Recordings
+## Pictures
+
 
 ## How to use
 First of all, download [ToDoWise](https://apps.apple.com/us/app/todowise-task-idea-planner/id6480089178) from the Apple App Store
