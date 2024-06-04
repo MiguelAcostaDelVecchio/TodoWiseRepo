@@ -11,7 +11,16 @@
 The purpose of this app is to help users organize their thoughs and support action. Thoughts, can include anything from ideas, stories, quotes, and reflections. This app has been designed in such a way to promote the user to store and easily organize their thoguhts to quickly use their past information as an advantage. 
 
 ## Pictures
-
+<p float="left">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg1.png" height="500" width="300">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg2.png" height="500" width="300">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg4.png" height="500" width="300">
+</p>
+<p>
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg5.png" height="500" width="300">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg6.png" height="500" width="300">
+      <img src="https://github.com/MiguelAcostaDelVecchio/TodoWiseRepo/blob/updatingREADME/Images/todowiseImg7.png" height="500" width="300">
+</p>
 
 ## How to use
 First of all, download [ToDoWise](https://apps.apple.com/us/app/todowise-task-idea-planner/id6480089178) from the Apple App Store
